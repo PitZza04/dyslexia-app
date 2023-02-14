@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671192213726",
+    "project_id": "dyslexia-app-372b1",
+    "storage_bucket": "dyslexia-app-372b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671192213726:android:ad2bd3662152a380833a4f",
+        "android_client_info": {
+          "package_name": "android.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671192213726-l27j4dulg34v666q4qdvr453dprjpadk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekSk0c868_buuTNSilyw-LZtVrUEIMF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671192213726-l27j4dulg34v666q4qdvr453dprjpadk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
